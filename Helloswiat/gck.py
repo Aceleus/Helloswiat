@@ -1,0 +1,1 @@
+print("nie mam inspiracji")
